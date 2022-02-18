@@ -1,4 +1,5 @@
-# Project : To prepare a report for a bank’s loan division
+# Credit scoring Report for a bank’s loan division
+# Project Overview
 
 To meet bank's requirements I need to find out if a customer’s marital status and number of children has an impact on whether they will default on a loan.
 
