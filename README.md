@@ -7,7 +7,8 @@ To meet bank's requirements I need to find out if a customer’s marital status 
 ## Resources
 Data Source:
 - loan.csv
-Software"
+
+Software:
 - Jupyter Notebook
 - Python
 
